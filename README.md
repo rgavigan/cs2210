@@ -9,6 +9,12 @@ Game that allows a user to play Pac-Man where the goal is to get all of the orbs
 
 Uses a binary search tree to resolve collisions between objects on the board.
 
+### Wordle Clone
+Wordle clone game that allows a user to play a variant of the famous game Wordle, where the word may be any length composed of UTF-16 characters
+
+### Scrabble Solver
+Scrabble word solver that takes input of a character array and returns a list of words and their corresponding Scrabble scores to the user.
+
 ### Map Traversal Algorithm / Pathfinder Algorithm
 Algorithm that allows a user to input a file that contains a grid of different nodes, allowing for a user to find a desired pathway from one node to another node on the graph while allowing constraints on the amount of private / construction roads that may be taken during the path.
 
